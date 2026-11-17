@@ -1,0 +1,10 @@
+[package]
+name = "teil-15-release-packaging"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = { workspace = true }
+serde = { workspace = true }
+ron = { workspace = true }
+directories = { workspace = true }
